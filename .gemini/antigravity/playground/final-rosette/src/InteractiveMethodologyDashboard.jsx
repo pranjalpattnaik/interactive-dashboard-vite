@@ -45,7 +45,7 @@ const phases = [
             {
                 id: 'snowball',
                 title: 'Snowball Sampling Survey',
-                description: 'Field deployment using snowball sampling among officials, architects to obtain representative responses.',
+                description: 'Field deployment using snowball sampling among officials to obtain representative responses.',
             },
             {
                 id: 'cleaning',
